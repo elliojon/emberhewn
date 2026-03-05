@@ -163,6 +163,7 @@ export default function Home() {
         <meta property="og:description" content="A community for people navigating fertility treatment. Shaped by fire. Built by those who have been through it." />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://emberhewn.com" />
+        <meta name="google-site-verification" content="Fqg_-LNFrjadAldgL2WHi1CGhueHYz8cz8GW9s5zasg" />
         <meta name="twitter:card" content="summary_large_image" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
